@@ -1,0 +1,39 @@
+{
+  "name": "ajmal_calcultor",
+  "version": "1.1.0",
+  "description": "commond line calcultor in TypeScript",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ajmal_calcultor": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajmalniz/ajmal-calcultor.git"
+  },
+  "keywords": [
+    "akn"
+  ],
+  "author": "Ajmal-Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajmalniz/ajmal-calcultor/issues"
+  },
+  "homepage": "https://github.com/Ajmalniz/ajmal-calcultor#readme",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.4.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "D": "^1.0.0",
+    "inquirer": "^9.2.8",
+    "package.json": "^2.0.1"
+  }
+}
